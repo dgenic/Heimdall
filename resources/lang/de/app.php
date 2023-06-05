@@ -66,7 +66,7 @@ return array (
   'apps.add_tag' => 'Tag hinzufügen',
   'apps.tag_name' => 'Tag Name',
   'apps.tags' => 'Tags',
-  'apps.override' => 'Fals anders zur Haupt-URL',
+  'apps.override' => 'Falls anders zur Haupt-URL',
   'apps.preview' => 'Vorschau',
   'apps.apptype' => 'Anwendungstyp',
   'apps.website' => 'Webseite',
